@@ -4,15 +4,15 @@
 
 ## 🚀 Projects Included
 
-| # | Project | Description | Path |
-|---|---|---|---|
-| 01 | **Gradient Generator** | Tool to generate and copy CSS color gradients | [`01/gradient-generator`](./01/gradient-generator) |
-| 02 | **Avatar Generator** | Create and customize avatar images | [`02/avtar-generator`](./02/avtar-generator) |
-| 03 | **Image Gallery** | Responsive image gallery showcase | [`03/image-gallary`](./03/image-gallary) |
-| 04 | **YouTube Thumbnail Downloader** | Download thumbnails from any YouTube video link | [`04/yt-thumbnail-downloader`](./04/yt-thumbnail-downloader) |
-| 05 | **QR Code Generator** | Generate downloadable QR codes for URLs and text | [`05/QR-code-generator`](./05/QR-code-generator) |
-| 06 | **Password Generator** | Generate secure, customizable random passwords | [`06/password-generator`](./06/password-generator) |
-| 07 | **Currency Converter** | Live currency converter using custom hooks & rates | [`07/currency-convertor`](./07/currency-convertor) |
+| # | Project | Description | Path | live |
+|---|---|---|---|---|
+| 01 | **Gradient Generator** | Tool to generate and copy CSS color gradients | [`01/gradient-generator`](./01/gradient-generator) | https://gradient-generator-flax.vercel.app/ |
+| 02 | **Avatar Generator** | Create and customize avatar images | [`02/avtar-generator`](./02/avtar-generator) | https://avtar-generator-one.vercel.app/ |
+| 03 | **Image Gallery** | Responsive image gallery showcase | [`03/image-gallary`](./03/image-gallary) | https://image-gallary-plum.vercel.app/ |
+| 04 | **YouTube Thumbnail Downloader** | Download thumbnails from any YouTube video link | [`04/yt-thumbnail-downloader`](./04/yt-thumbnail-downloader) | https://yt-thumbnail-downloader-eight.vercel.app/ |
+| 05 | **QR Code Generator** | Generate downloadable QR codes for URLs and text | [`05/QR-code-generator`](./05/QR-code-generator) | https://qr-code-generator-pi-murex.vercel.app/ |
+| 06 | **Password Generator** | Generate secure, customizable random passwords | [`06/password-generator`](./06/password-generator) | https://password-generator-one-orpin.vercel.app/ |
+| 07 | **Currency Converter** | Live currency converter using custom hooks & rates | [`07/currency-convertor`](./07/currency-convertor) | https://currency-convertor-mu-seven.vercel.app/ |
 
 ---
 
