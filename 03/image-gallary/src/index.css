@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+.firstline {
+  /* font-size: 3rem; */
+  font-weight: bold;
+  /* background: linear-gradient(90deg, #ff7e5f, #feb47b); */
+  background: #4565EE;
+  /* background: linear-gradient(229deg, #a1c4fd, #c2e9fb); */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text; /* for Firefox */
+  color: transparent;
+}
